@@ -27,7 +27,7 @@ SPIDY is a digital investigator's **Swiss Army knife inside Telegram**. Send it 
 
 ## Demo
 
-<video src="https://github.com/Danish-spidy/spidy-showcase/raw/main/demo/SPIDY_demo.mp4" controls width="100%"></video>
+https://github.com/user-attachments/assets/647dfa38-7272-476d-a10a-3c6c3b69364b
 
 ![SPIDY hero](docs/hero.png)
 
